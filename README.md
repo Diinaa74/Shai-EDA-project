@@ -34,7 +34,7 @@ got data from kaggle : https://www.kaggle.com/datasets/ruchi798/data-science-job
 
 4- Univariate analysis:
 
-4.1 : Hanling Categorical Values:
+4.1 : Handling Categorical Values:
 
 visualizing each column
 
