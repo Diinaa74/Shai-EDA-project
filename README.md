@@ -1,5 +1,9 @@
-This is my first EDA project Project steps: 
+This is my first EDA project
+
+**Project steps:
+
 1- started with collecting Data :-
+
 got data from kaggle : https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries?resource=download
 
 1.1: Descibing each feature
