@@ -42,6 +42,6 @@ visualizing each column
 
 -visualizing each column
 
-5- Bivariate anausis:
+5- Bivariate analysis:
 
 using Power bi
