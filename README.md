@@ -6,9 +6,9 @@ This is my first EDA project
 
 got data from kaggle : https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries?resource=download
 
-1.1: Descibing each feature
+1.1: Describing each feature
 
-2- infromation about data:
+2- information about data:
 
 2.1-number of rows and columns of the data
 
@@ -24,11 +24,11 @@ got data from kaggle : https://www.kaggle.com/datasets/ruchi798/data-science-job
 
 3- Data cleaning :
 
-3.1- removing unuseful columns
+3.1- removing un useful columns
 
 3.2- check and removing missing values
 
-3.3- check and remiving duplicats
+3.3- check and removing duplicates
 
 3.3- check and handling outliers
 
